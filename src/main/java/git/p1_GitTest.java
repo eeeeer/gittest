@@ -6,7 +6,7 @@ public class p1_GitTest {
         System.out.println("hello git2 master  hot-fix ");
         System.out.println("hello git3 ");
         System.out.println("hello git4 ");
-
+        System.out.println("hello git100 addmaster ");
 
     }
 }
