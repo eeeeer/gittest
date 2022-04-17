@@ -8,6 +8,6 @@ public class p1_GitTest {
         System.out.println("hello git4 ");
         System.out.println("hello git100 addmaster ");
         System.out.println("hello git100 addhot-fix ");
-
+        System.out.println("hello git100 addgithub");
     }
 }
